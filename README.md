@@ -1,5 +1,3 @@
-# Fresp.
-
 ## Technology.
 
 * Building scalable systems.
