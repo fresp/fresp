@@ -1,5 +1,3 @@
-# Freza Nugraha
-
 Software Engineer.
 
 Building scalable platforms, AI systems, and developer tools.
