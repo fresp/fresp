@@ -1,8 +1,6 @@
-Software Engineer.
+# 👋
 
-Building scalable platforms, AI systems, and developer tools.
-
-Currently exploring distributed systems and agentic AI.
+I enjoy building scalable systems, developer tools, and AI-powered applications.
 
 ### Connect
 - 📧 [fnugraha169@gmail.com](mailto:fnugraha169@gmail.com)
